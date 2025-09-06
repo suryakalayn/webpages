@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Admin Webpage</title>
+</head>
+<body>
+    <a href="index.html">HOME</a>
+    <h1>This is Admin web page</h1>
+</body>
+</html>
