@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Links</title>
+</head>
+<body> 
+    <h1>This is index page</h1>
+    <a  href="user.html">User</a><br>
+    <a  href="manager.html">Manager</a><br>
+    <a href="admin.html">Admin</a>
+</body>
+</html>
